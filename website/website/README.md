@@ -1,1 +1,0 @@
-# splatsdf.github.io
