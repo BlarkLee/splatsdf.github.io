@@ -5,8 +5,8 @@ var currentSceneId = 0;
 var currentEpoch = "500";
 var currentEpochId = 0;
 const sceneButtonTextsVideo = {
-  0: ["500", "1500", "3000"], // Lego
-  1: ["1000", "2000", "5000"], // Ship
+  0: ["500", "1000", "1500", "2000", "3000"], // Lego
+  1: ["500", "1000", "2000", "4000", "5000"], // Ship
 };
 
 var currentEpochImage = "500";
